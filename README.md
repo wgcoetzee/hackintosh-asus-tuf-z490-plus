@@ -39,7 +39,7 @@ https://dortania.github.io/OpenCore-Install-Guide/
 * [Lilu](https://github.com/acidanthera/Lilu/releases/tag/1.6.0)
 * [SMCProcessor](https://github.com/acidanthera/VirtualSMC/releases/tag/1.2.8)
 * [SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases/tag/1.2.8)
-* [USBMap] (https://github.com/corpnewt/USBMap))
+* [USBMap](https://github.com/corpnewt/USBMap)
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases/tag/1.2.8)
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/tag/1.5.7)
 
