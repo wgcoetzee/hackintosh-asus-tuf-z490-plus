@@ -1,4 +1,4 @@
-# hackintosh-asus-prime-z490-p
+# hackintosh-asus-tuf-z490-plus
 
 Hackintosh Monterey 12.2.1 build using OpenCore 0.7.8.
 
@@ -13,7 +13,7 @@ https://dortania.github.io/OpenCore-Install-Guide/
 |CPU|[Intel i3-10100F](https://www.intel.com/content/www/us/en/products/sku/203473/intel-core-i310100f-processor-6m-cache-up-to-4-30-ghz/specifications.html)|
 |GPU|[AMD Radeon RX 570](https://www.amd.com/en/products/graphics/radeon-rx-570)|
 
-### Motherboard - Asus PRIME Z490-P
+### Motherboard - Asus Tuf Z490 Plus
 |||
 |-|-|
 |Ethernet|Intel® I219-V|
